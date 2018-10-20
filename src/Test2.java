@@ -4,6 +4,6 @@ public class Test2 {
         String test2 =  "What the ";
         System.out.println(test2 + test);
 
-        System.out.print("Why mister Anderson");
+        System.out.print("Why mister Anderson ASD_ASDASD_ASD");
     }
 }
